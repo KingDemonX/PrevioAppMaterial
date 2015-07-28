@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrevioAppM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="BIENVENIDO">BIENVENIDO</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+</resources>
